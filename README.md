@@ -1,3 +1,3 @@
 # react-typescript-threejs-template
 
-template created with React, typescript, React-three-fibre, react-three/drei and react-three/spring
+template created with React, typescript, React-three-fibre, react-three/drei and react-three/spring, and tailwindcss for easy styling
